@@ -5,9 +5,12 @@
 对于参数估计（Parameter estimation）问题，估计器的性能通常可以用均方误差（Mean Squared Error, MSE）和克拉美-罗下界（Cramér–Rao Lower Bound，CRLB）进行刻画。
 [1] Fishler E, Haimovich A, Blum R S, et al. Spatial diversity in radars—Models and detection performance[J]. IEEE Transactions on signal processing, 2006, 54(3): 823-838. [2] Bekkerman I, Tabrikian J. Target detection and localization using MIMO radars and sonars[J]. IEEE Transactions on Signal Processing, 2006, 54(10): 3873-3883.
 [3] S. M. Kay, “Fundamentals of statistical signal processing,” in Estimation Theory. Englewood Cliffs, NJ, USA: Prentice Hall, 1998.
+公众号：雷达学术入门https://mp.weixin.qq.com/s/vaofUxurFaxSBInlvc_6Rw
+
 
 （2）通信的性能指标，多为SNR、SINR、误码率、通信速率等。
 基本的性能指标、更多相关的基础内容、ISAC研究的基本理论和场景框架，可以参考南科大Fan Liu老师等[4]、北邮Yuanhao Cui博士等[5]、浙大An Liu老师等[6]的ISAC综述。
 [4] Liu F, Cui Y, Masouros C, et al. Integrated sensing and communications: Towards dual-functional wireless networks for 6G and beyond[J]. IEEE Journal on Selected Areas in Communications, 2022. 
 [5] Cui Y, Liu F, Jing X, et al. Integrating Sensing and Communications for Ubiquitous IoT: Applications, Trends, and Challenges[J]. IEEE Network, 2021, 35(5): 158-167. 
 [6] Liu A, Huang Z, Li M, et al. A survey on fundamental limits of integrated sensing and communication[J]. IEEE Communications Surveys & Tutorials, 2022.
+公众号综述：https://mp.weixin.qq.com/s/FLixJyA0Vl3zrk0iizbRlg
